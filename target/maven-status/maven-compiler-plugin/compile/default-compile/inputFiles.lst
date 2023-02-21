@@ -1,0 +1,14 @@
+C:\Users\doka\IdeaProjects\racers-app\src\main\java\app\racers\config\SpringDataJpaUserDetailsService.java
+C:\Users\doka\IdeaProjects\racers-app\src\main\java\app\racers\config\DatabaseLoader.java
+C:\Users\doka\IdeaProjects\racers-app\src\main\java\app\racers\config\SecurityConfiguration.java
+C:\Users\doka\IdeaProjects\racers-app\src\main\java\app\racers\enums\Roles.java
+C:\Users\doka\IdeaProjects\racers-app\src\main\java\app\racers\service\RacerService.java
+C:\Users\doka\IdeaProjects\racers-app\src\main\java\app\racers\repository\UserRepository.java
+C:\Users\doka\IdeaProjects\racers-app\src\main\java\app\racers\controller\RacerController.java
+C:\Users\doka\IdeaProjects\racers-app\src\main\java\app\racers\controller\HomeController.java
+C:\Users\doka\IdeaProjects\racers-app\src\main\java\app\racers\entity\Racer.java
+C:\Users\doka\IdeaProjects\racers-app\src\main\java\app\racers\service\UserService.java
+C:\Users\doka\IdeaProjects\racers-app\src\main\java\app\racers\repository\RacerRepository.java
+C:\Users\doka\IdeaProjects\racers-app\src\main\java\app\racers\controller\UserController.java
+C:\Users\doka\IdeaProjects\racers-app\src\main\java\app\racers\entity\User.java
+C:\Users\doka\IdeaProjects\racers-app\src\main\java\app\racers\RacersApplication.java
